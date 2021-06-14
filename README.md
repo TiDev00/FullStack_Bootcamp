@@ -1,3 +1,3 @@
 # FullStack_Bootcamp
 
-Projets contenus dans le bootcamp "Python and Django Full Stack Web Developer Bootcamp"
+Project related to web development using HTML, CSS3, Javascript, JQuery and Django
