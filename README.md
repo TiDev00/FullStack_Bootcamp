@@ -1,3 +1,3 @@
 # FullStack_Bootcamp
 
-Project related to web development using HTML, CSS3, Javascript, JQuery and Django
+This is mini task and project in a Udemy bootcamp to sharpen my skills
